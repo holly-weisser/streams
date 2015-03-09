@@ -29,6 +29,8 @@
     "mocha": "^2.2.1"
   },
   "dependencies": {
-    "lodash": "^3.5.0"
+    "bluebird": "^2.9.13",
+    "lodash": "^3.5.0",
+    "through2": "^0.6.3"
   }
 }

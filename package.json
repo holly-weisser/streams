@@ -29,8 +29,10 @@
     "mocha": "^2.2.1"
   },
   "dependencies": {
+    "async": "^1.5.2",
     "bluebird": "^2.9.13",
     "lodash": "^3.5.0",
+    "node-uuid": "^1.4.7",
     "through2": "^1.0.0"
   }
 }

@@ -1,6 +1,6 @@
 {
   "name": "ent-streams",
-  "version": "1.10.0",
+  "version": "1.10.1",
   "description": "Various streams and stream utilities",
   "main": "lib/index.js",
   "directories": {

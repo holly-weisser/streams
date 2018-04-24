@@ -1,6 +1,6 @@
 {
   "name": "ent-streams",
-  "version": "1.11.0",
+  "version": "1.12.0",
   "description": "Various streams and stream utilities",
   "main": "lib/index.js",
   "directories": {
@@ -16,7 +16,8 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "chai": "^2.1.1",
+    "chai": "^4.0.0",
+    "chai-as-promised": "^7.1.1",
     "gulp": "^3.8.11",
     "gulp-bump": "^0.2.2",
     "gulp-filter": "^2.0.2",
